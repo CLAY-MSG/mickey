@@ -11,6 +11,7 @@
     <Version>1.0.0</Version>
     <Product>Mickey</Product>
     <Description>麦克风开关托盘工具</Description>
+    <ApplicationIcon>app.ico</ApplicationIcon>
     <SatelliteResourceLanguages>en</SatelliteResourceLanguages>
   </PropertyGroup>
 
