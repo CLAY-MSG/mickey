@@ -1,0 +1,2 @@
+d:\Programmer\Code\mickey\dist\Mickey.pdb
+d:\Programmer\Code\mickey\dist\Mickey.exe

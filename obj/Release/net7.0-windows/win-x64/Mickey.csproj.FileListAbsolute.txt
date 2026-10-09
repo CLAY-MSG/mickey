@@ -1,0 +1,14 @@
+d:\Programmer\Code\mickey\Mickey\bin\Release\net7.0-windows\win-x64\Mickey.exe
+d:\Programmer\Code\mickey\Mickey\bin\Release\net7.0-windows\win-x64\Mickey.deps.json
+d:\Programmer\Code\mickey\Mickey\bin\Release\net7.0-windows\win-x64\Mickey.runtimeconfig.json
+d:\Programmer\Code\mickey\Mickey\bin\Release\net7.0-windows\win-x64\Mickey.dll
+d:\Programmer\Code\mickey\Mickey\bin\Release\net7.0-windows\win-x64\Mickey.pdb
+d:\Programmer\Code\mickey\Mickey\obj\Release\net7.0-windows\win-x64\Mickey.GeneratedMSBuildEditorConfig.editorconfig
+d:\Programmer\Code\mickey\Mickey\obj\Release\net7.0-windows\win-x64\Mickey.AssemblyInfoInputs.cache
+d:\Programmer\Code\mickey\Mickey\obj\Release\net7.0-windows\win-x64\Mickey.AssemblyInfo.cs
+d:\Programmer\Code\mickey\Mickey\obj\Release\net7.0-windows\win-x64\Mickey.csproj.CoreCompileInputs.cache
+d:\Programmer\Code\mickey\Mickey\obj\Release\net7.0-windows\win-x64\Mickey.dll
+d:\Programmer\Code\mickey\Mickey\obj\Release\net7.0-windows\win-x64\refint\Mickey.dll
+d:\Programmer\Code\mickey\Mickey\obj\Release\net7.0-windows\win-x64\Mickey.pdb
+d:\Programmer\Code\mickey\Mickey\obj\Release\net7.0-windows\win-x64\Mickey.genruntimeconfig.cache
+d:\Programmer\Code\mickey\Mickey\obj\Release\net7.0-windows\win-x64\ref\Mickey.dll
